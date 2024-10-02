@@ -1,4 +1,4 @@
-<img width="683" alt="Screenshot 2024-10-02 at 09 15 43" src="https://github.com/user-attachments/assets/e0eee4fa-712c-4a29-b2ab-78dd3e941bf2"># Simulasi UTS Pemograman Berorientasi Objek
+# Simulasi UTS Pemograman Berorientasi Objek
 Membuat CRUD dengan Java Swing untuk entitas Buku dengan atribut: ISBN, Judul Buku, Tahun Terbit, dan Penerbit
 
 ## Daftar Isi
@@ -42,7 +42,6 @@ Disini saya akan menjabarkan langkah-langkah dalam pembuatan Program Data Toko B
 
 10. Tombol untuk menghapus Data
    <img width="683" alt="Screenshot 2024-10-02 at 09 15 20" src="https://github.com/user-attachments/assets/10ca00bd-2c27-4c57-8632-22ee6369f623">
-
 
 ## Hasil Program
 <img width="750" alt="Screenshot 2024-10-02 at 09 16 22" src="https://github.com/user-attachments/assets/0950ddfe-34ff-4be8-a8e9-b3b4925d9675">
